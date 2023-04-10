@@ -1,6 +1,6 @@
 
 
-fetch('./treedata.json')
+fetch('./exampledata.json')
 .then(function(resp){
     return resp.json();
 })
