@@ -1,0 +1,526 @@
+{
+    "Mass Spectral Features": {
+        "Exp 1": {
+            "Fragment1": {
+                "13C/Unsub": {
+                    "Delta Value": 10,
+                    "Error": 1,
+                    "reference frame": "PDB"
+                },
+                "15N/Unsub": {
+                    "Delta Value": -5,
+                    "Error": 1,
+                    "reference frame": "AIR"
+                },
+                "2H/Unsub": {
+                    "Delta Value": -100,
+                    "Error": 10,
+                    "reference frame": "VSMOW"
+                },
+                "18O/Unsub": {
+                    "Delta Value": 10,
+                    "Error": 1,
+                    "reference frame": "VSMOW"
+                }
+            },
+            "Fragment2": {
+                "13C/Unsub": {
+                    "Delta Value": 10,
+                    "Error": 1,
+                    "reference frame": "PDB"
+                },
+                "15N/Unsub": {
+                    "Delta Value": -5,
+                    "Error": 1,
+                    "reference frame": "AIR"
+                },
+                "2H/Unsub": {
+                    "Delta Value": -100,
+                    "Error": 10,
+                    "reference frame": "VSMOW"
+                },
+                "18O/Unsub": {
+                    "Delta Value": 10,
+                    "Error": 1,
+                    "reference frame": "VSMOW"
+                }
+            }
+        },
+        "Exp 2": {
+            "Fragment1": {
+                "13C/Unsub": {
+                    "Delta Value": 10,
+                    "Error": 1,
+                    "reference frame": "PDB"
+                },
+                "15N/Unsub": {
+                    "Delta Value": -5,
+                    "Error": 1,
+                    "reference frame": "AIR"
+                },
+                "2H/Unsub": {
+                    "Delta Value": -100,
+                    "Error": 10,
+                    "reference frame": "VSMOW"
+                },
+                "18O/Unsub": {
+                    "Delta Value": 10,
+                    "Error": 1,
+                    "reference frame": "VSMOW"
+                }
+            },
+            "Fragment2": {
+                "13C/Unsub": {
+                    "Delta Value": 10,
+                    "Error": 1,
+                    "reference frame": "PDB"
+                },
+                "15N/Unsub": {
+                    "Delta Value": -5,
+                    "Error": 1,
+                    "reference frame": "AIR"
+                },
+                "2H/Unsub": {
+                    "Delta Value": -100,
+                    "Error": 10,
+                    "reference frame": "VSMOW"
+                },
+                "18O/Unsub": {
+                    "Delta Value": 10,
+                    "Error": 1,
+                    "reference frame": "VSMOW"
+                }
+            }
+        },
+        "Exp 3": {
+            "Fragment1": {
+                "13C/Unsub": {
+                    "Delta Value": 10,
+                    "Error": 1,
+                    "reference frame": "PDB"
+                },
+                "15N/Unsub": {
+                    "Delta Value": -5,
+                    "Error": 1,
+                    "reference frame": "AIR"
+                },
+                "2H/Unsub": {
+                    "Delta Value": -100,
+                    "Error": 10,
+                    "reference frame": "VSMOW"
+                },
+                "18O/Unsub": {
+                    "Delta Value": 10,
+                    "Error": 1,
+                    "reference frame": "VSMOW"
+                }
+            },
+            "Fragment2": {
+                "13C/Unsub": {
+                    "Delta Value": 10,
+                    "Error": 1,
+                    "reference frame": "PDB"
+                },
+                "15N/Unsub": {
+                    "Delta Value": -5,
+                    "Error": 1,
+                    "reference frame": "AIR"
+                },
+                "2H/Unsub": {
+                    "Delta Value": -100,
+                    "Error": 10,
+                    "reference frame": "VSMOW"
+                },
+                "18O/Unsub": {
+                    "Delta Value": 10,
+                    "Error": 1,
+                    "reference frame": "VSMOW"
+                }
+            }
+        },
+        "Average": {
+            "Fragment1": {
+                "13C/Unsub": {
+                    "Delta Value": 10,
+                    "Error": 1,
+                    "reference frame": "PDB"
+                },
+                "15N/Unsub": {
+                    "Delta Value": -5,
+                    "Error": 1,
+                    "reference frame": "AIR"
+                },
+                "2H/Unsub": {
+                    "Delta Value": -100,
+                    "Error": 10,
+                    "reference frame": "VSMOW"
+                },
+                "18O/Unsub": {
+                    "Delta Value": 10,
+                    "Error": 1,
+                    "reference frame": "VSMOW"
+                }
+            },
+            "Fragment2": {
+                "13C/Unsub": {
+                    "Delta Value": 10,
+                    "Error": 1,
+                    "reference frame": "PDB"
+                },
+                "15N/Unsub": {
+                    "Delta Value": -5,
+                    "Error": 1,
+                    "reference frame": "AIR"
+                },
+                "2H/Unsub": {
+                    "Delta Value": -100,
+                    "Error": 10,
+                    "reference frame": "VSMOW"
+                },
+                "18O/Unsub": {
+                    "Delta Value": 10,
+                    "Error": 1,
+                    "reference frame": "VSMOW"
+                }
+            }
+        }
+    },
+    "Isotope Properties": {
+        "Exp 1": {
+            "Molecular Average": {
+                "13C/Unsub": {
+                    "Delta Value": 10,
+                    "Error": 1,
+                    "Reference Frame": "PDB"
+                },
+                "15N/Unsub": {
+                    "Delta Value": -5,
+                    "Error": 1,
+                    "Reference Frame": "AIR"
+                }
+            },
+            "Isotopologues": {
+                "13C-C-carboxyl": {
+                    "Delta Value": 20,
+                    "Error": 1,
+                    "Reference Frame": "PDB"
+                },
+                "13C-C-alphabeta": {
+                    "Delta Value": 5,
+                    "Error": 1,
+                    "Reference Frame": "PDB"
+                }
+            },
+            "Sites": {
+                "13C-C-carboxyl": {
+                    "Delta Value": 20,
+                    "Error": 1,
+                    "Reference Frame": "PDB"
+                },
+                "13C-C-alphabeta": {
+                    "Delta Value": 5,
+                    "Error": 1,
+                    "Reference Frame": "PDB"
+                },
+                "15N-N-amine": {
+                    "Delta Value": -5,
+                    "Error": 1,
+                    "Reference Frame": "AIR"
+                },
+                "2H-H-amine": {
+                    "Delta Value": -100,
+                    "Error": 10,
+                    "Reference Frame": "VSMOW"
+                },
+                "18O-O-carboxyl": {
+                    "Delta Value": 10,
+                    "Error": 1,
+                    "Reference Frame": "VSMOW"
+                }
+            },
+            "Moeities": {
+                "Amine": {
+                    "15N/Unsub": {
+                        "Delta Value": -5,
+                        "Error": 1,
+                        "Reference Frame": "AIR"
+                    },
+                    "2H/Unsub": {
+                        "Delta Value": -100,
+                        "Error": 10,
+                        "Reference Frame": "VSMOW"
+                    }
+                },
+                "Carboxyl": {
+                    "13C/Unsub": {
+                        "Delta Value": 10,
+                        "Error": 1,
+                        "Reference Frame": "PDB"
+                    },
+                    "13C18O": {
+                        "Delta Value": 0,
+                        "Error": 1,
+                        "Reference Frame": "Stochastic"
+                    },
+                    "18O": {
+                        "Delta Value": 10,
+                        "Error": 1,
+                        "Reference Frame": "VSMOW"
+                    }
+                }
+            }
+        },
+        "Exp 2": {
+            "Molecular Average": {
+                "13C/Unsub": {
+                    "Delta Value": 10,
+                    "Error": 1,
+                    "Reference Frame": "PDB"
+                },
+                "15N/Unsub": {
+                    "Delta Value": -5,
+                    "Error": 1,
+                    "Reference Frame": "AIR"
+                }
+            },
+            "Isotopologues": {
+                "13C-C-carboxyl": {
+                    "Delta Value": 20,
+                    "Error": 1,
+                    "Reference Frame": "PDB"
+                },
+                "13C-C-alphabeta": {
+                    "Delta Value": 5,
+                    "Error": 1,
+                    "Reference Frame": "PDB"
+                }
+            },
+            "Sites": {
+                "13C-C-carboxyl": {
+                    "Delta Value": 20,
+                    "Error": 1,
+                    "Reference Frame": "PDB"
+                },
+                "13C-C-alphabeta": {
+                    "Delta Value": 5,
+                    "Error": 1,
+                    "Reference Frame": "PDB"
+                },
+                "15N-N-amine": {
+                    "Delta Value": -5,
+                    "Error": 1,
+                    "Reference Frame": "AIR"
+                },
+                "2H-H-amine": {
+                    "Delta Value": -100,
+                    "Error": 10,
+                    "Reference Frame": "VSMOW"
+                },
+                "18O-O-carboxyl": {
+                    "Delta Value": 10,
+                    "Error": 1,
+                    "Reference Frame": "VSMOW"
+                }
+            },
+            "Moeities": {
+                "Amine": {
+                    "15N/Unsub": {
+                        "Delta Value": -5,
+                        "Error": 1,
+                        "Reference Frame": "AIR"
+                    },
+                    "2H/Unsub": {
+                        "Delta Value": -100,
+                        "Error": 10,
+                        "Reference Frame": "VSMOW"
+                    }
+                },
+                "Carboxyl": {
+                    "13C/Unsub": {
+                        "Delta Value": 10,
+                        "Error": 1,
+                        "Reference Frame": "PDB"
+                    },
+                    "13C18O": {
+                        "Delta Value": 0,
+                        "Error": 1,
+                        "Reference Frame": "Stochastic"
+                    },
+                    "18O": {
+                        "Delta Value": 10,
+                        "Error": 1,
+                        "Reference Frame": "VSMOW"
+                    }
+                }
+            }
+        },
+        "Exp 3": {
+            "Molecular Average": {
+                "13C/Unsub": {
+                    "Delta Value": 10,
+                    "Error": 1,
+                    "Reference Frame": "PDB"
+                },
+                "15N/Unsub": {
+                    "Delta Value": -5,
+                    "Error": 1,
+                    "Reference Frame": "AIR"
+                }
+            },
+            "Isotopologues": {
+                "13C-C-carboxyl": {
+                    "Delta Value": 20,
+                    "Error": 1,
+                    "Reference Frame": "PDB"
+                },
+                "13C-C-alphabeta": {
+                    "Delta Value": 5,
+                    "Error": 1,
+                    "Reference Frame": "PDB"
+                }
+            },
+            "Sites": {
+                "13C-C-carboxyl": {
+                    "Delta Value": 20,
+                    "Error": 1,
+                    "Reference Frame": "PDB"
+                },
+                "13C-C-alphabeta": {
+                    "Delta Value": 5,
+                    "Error": 1,
+                    "Reference Frame": "PDB"
+                },
+                "15N-N-amine": {
+                    "Delta Value": -5,
+                    "Error": 1,
+                    "Reference Frame": "AIR"
+                },
+                "2H-H-amine": {
+                    "Delta Value": -100,
+                    "Error": 10,
+                    "Reference Frame": "VSMOW"
+                },
+                "18O-O-carboxyl": {
+                    "Delta Value": 10,
+                    "Error": 1,
+                    "Reference Frame": "VSMOW"
+                }
+            },
+            "Moeities": {
+                "Amine": {
+                    "15N/Unsub": {
+                        "Delta Value": -5,
+                        "Error": 1,
+                        "Reference Frame": "AIR"
+                    },
+                    "2H/Unsub": {
+                        "Delta Value": -100,
+                        "Error": 10,
+                        "Reference Frame": "VSMOW"
+                    }
+                },
+                "Carboxyl": {
+                    "13C/Unsub": {
+                        "Delta Value": 10,
+                        "Error": 1,
+                        "Reference Frame": "PDB"
+                    },
+                    "13C18O": {
+                        "Delta Value": 0,
+                        "Error": 1,
+                        "Reference Frame": "Stochastic"
+                    },
+                    "18O": {
+                        "Delta Value": 10,
+                        "Error": 1,
+                        "Reference Frame": "VSMOW"
+                    }
+                }
+            }
+        },
+        "Average": {
+            "Molecular Average": {
+                "13C/Unsub": {
+                    "Delta Value": 10,
+                    "Error": 1,
+                    "Reference Frame": "PDB"
+                },
+                "15N/Unsub": {
+                    "Delta Value": -5,
+                    "Error": 1,
+                    "Reference Frame": "AIR"
+                }
+            },
+            "Isotopologues": {
+                "13C-C-carboxyl": {
+                    "Delta Value": 20,
+                    "Error": 1,
+                    "Reference Frame": "PDB"
+                },
+                "13C-C-alphabeta": {
+                    "Delta Value": 5,
+                    "Error": 1,
+                    "Reference Frame": "PDB"
+                }
+            },
+            "Sites": {
+                "13C-C-carboxyl": {
+                    "Delta Value": 20,
+                    "Error": 1,
+                    "Reference Frame": "PDB"
+                },
+                "13C-C-alphabeta": {
+                    "Delta Value": 5,
+                    "Error": 1,
+                    "Reference Frame": "PDB"
+                },
+                "15N-N-amine": {
+                    "Delta Value": -5,
+                    "Error": 1,
+                    "Reference Frame": "AIR"
+                },
+                "2H-H-amine": {
+                    "Delta Value": -100,
+                    "Error": 10,
+                    "Reference Frame": "VSMOW"
+                },
+                "18O-O-carboxyl": {
+                    "Delta Value": 10,
+                    "Error": 1,
+                    "Reference Frame": "VSMOW"
+                }
+            },
+            "Moeities": {
+                "Amine": {
+                    "15N/Unsub": {
+                        "Delta Value": -5,
+                        "Error": 1,
+                        "Reference Frame": "AIR"
+                    },
+                    "2H/Unsub": {
+                        "Delta Value": -100,
+                        "Error": 10,
+                        "Reference Frame": "VSMOW"
+                    }
+                },
+                "Carboxyl": {
+                    "13C/Unsub": {
+                        "Delta Value": 10,
+                        "Error": 1,
+                        "Reference Frame": "PDB"
+                    },
+                    "13C18O": {
+                        "Delta Value": 0,
+                        "Error": 1,
+                        "Reference Frame": "Stochastic"
+                    },
+                    "18O": {
+                        "Delta Value": 10,
+                        "Error": 1,
+                        "Reference Frame": "VSMOW"
+                    }
+                }
+            }
+        }
+    }
+}
